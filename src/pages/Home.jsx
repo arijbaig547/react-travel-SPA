@@ -1,4 +1,5 @@
 import React from 'react'
+
 import "../App.css"
 
 function Home() {
@@ -7,15 +8,15 @@ function Home() {
             {/* Hero Section */}
             <div
                 className="home d-flex flex-column justify-content-center align-items-start text-white px-3 py-3"
-                style={{
-                    background:
-                        "linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url('../images/asal.png')",
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                    backgroundRepeat: "no-repeat",
-                    height: "80vh",
-                    paddingLeft: "80px",
-                }}
+             style={{
+  background: "linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('/images/asal.png')",
+  backgroundSize: "cover",
+  backgroundPosition: "center",
+  backgroundRepeat: "no-repeat",
+  height: "80vh",
+  paddingLeft: "80px",
+}}
+
             >
                 <h1
                     className="display-2 px-3"
