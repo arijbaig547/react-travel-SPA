@@ -44,6 +44,7 @@ It helps users **explore destinations** with a sleek design inspired by **mounta
 
 
 ## 📂 Project Structure  
+
 /src
 ├── components
 │ ├── Navbar.js
@@ -56,4 +57,3 @@ It helps users **explore destinations** with a sleek design inspired by **mounta
 
 
 
-## 📂 Project Structure  
