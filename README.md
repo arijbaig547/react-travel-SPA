@@ -31,13 +31,13 @@ It helps users **explore destinations** with a sleek design inspired by **mounta
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad33882c-193e-4393-8dad-971e1cf982fe"/>)  
+![Home Page](https://github.com/user-attachments/assets/ad33882c-193e-4393-8dad-971e1cf982fe)  
 
 ### 📍 Popular Destinations  
-![Destinations Page](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/245957e8-9244-4124-b710-1bd9ac499202"/>)  
+![Destinations Page](https://github.com/user-attachments/assets/245957e8-9244-4124-b710-1bd9ac499202)  
 
 ### 📞 Contact Page  
-![Contact Page](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/022e48da-76a0-4302-849b-e8410d910f86"/>)  
+![Contact Page](https://github.com/user-attachments/assets/022e48da-76a0-4302-849b-e8410d910f86) 
 
 ---
 
