@@ -1,76 +1,58 @@
-✈️ VoyageX – Travel Website
+# ✈️ VoyageX – Travel Website  
 
-A modern and elegant Travel Website built using React, Bootstrap & Custom CSS.
-It helps users explore destinations with a sleek design inspired by mountains, lakes, and adventures.
+![Hero Screenshot](https://github.com/user-attachments/assets/hero-sample.png)  
 
-🌟 Features
+A modern and elegant **Travel Website** built using **React, Bootstrap & Custom CSS**.  
+It helps users **explore destinations** with a sleek design inspired by **mountains, lakes, and adventures**.  
 
-🌍 Beautiful hero section with gradient background
+---
 
-📌 Transparent navbar overlay
+## 🌟 Features  
+- 🌍 Beautiful **hero section** with gradient background  
+- 📌 Transparent **navbar overlay**  
+- 🏔️ Travel-inspired **theme (mountain + lake vibes)**  
+- 📱 Fully **responsive design** (mobile + desktop)  
+- 🎨 Custom styled **buttons & smooth gradients**  
 
-🏔️ Travel-inspired theme (mountain + lake vibes)
+---
 
-📱 Fully responsive design (mobile + desktop)
+## 🚀 Live Demo  
+🔗 [View Live Website](https://your-travel-demo-link.netlify.app/)  
 
-🎨 Custom styled buttons & smooth gradients
+---
 
-🚀 Live Demo
+## 🛠️ Tech Stack  
+- ⚛️ **React.js**  
+- 🎨 **Bootstrap 5 + Custom CSS**  
+- 🌐 **Responsive Web Design**  
 
-🔗 View Live Website
+---
 
-🛠️ Tech Stack
+## 📸 Screenshots  
 
-⚛️ React.js
+### 🏠 Home Page  
+![Home Page](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad33882c-193e-4393-8dad-971e1cf982fe" />)  
 
-🎨 Bootstrap 5 + Custom CSS
+### 📍 Popular Destinations  
+![Destinations Page](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/245957e8-9244-4124-b710-1bd9ac499202" />)  
 
-🌐 Responsive Web Design
+### 📞 Contact Page  
+![Contact Page](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/022e48da-76a0-4302-849b-e8410d910f86" />)  
 
-📸 Screenshots
-🏠 Home Page
+---
 
-📍 Destinations Page
 
-📞 Contact Page
-
-📂 Project Structure
+## 📂 Project Structure  
 /src
-  ├── components
-  │   ├── Navbar.js
-  │   ├── Home.js
-  │   ├── Destinations.js
-  │   └── Contact.js
-  ├── images
-  ├── App.js
-  └── App.css
-
-⚙️ How to Run Locally
-
-Clone the repository
-
-git clone https://github.com/your-username/voyagex-travel.git
+├── components
+│ ├── Navbar.js
+│ ├── Home.js
+│ ├── Destinations.js
+│ └── Contact.js
+├── images
+├── App.js
+└── App.css
 
 
-Navigate to the project folder
 
-cd voyagex-travel
-
-
-Install dependencies
-
-npm install
-
-
-Run the project
-
-npm start
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit a PR.
-
-📜 License
-
-This project is MIT Licensed – free to use and customiz
+## 📂 Project Structure  
