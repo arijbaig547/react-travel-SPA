@@ -1,6 +1,6 @@
 # ✈️ VoyageX – Travel Website  
 
-![Hero Screenshot](https://github.com/user-attachments/assets/hero-sample.png)  
+(https://github.com/user-attachments/assets/ad33882c-193e-4393-8dad-971e1cf982fe)   
 
 A modern and elegant **Travel Website** built using **React, Bootstrap & Custom CSS**.  
 It helps users **explore destinations** with a sleek design inspired by **mountains, lakes, and adventures**.  
