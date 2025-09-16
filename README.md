@@ -49,7 +49,3 @@ It helps users explore destinations with a sleek design inspired by mountains, l
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a PR.
-
-📜 License
-
-This project is MIT Licensed – free to use and custom
