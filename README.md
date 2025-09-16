@@ -1,12 +1,55 @@
-# React + Vite
+✈️ VoyageX – Travel Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and elegant Travel Website built using React, Bootstrap & Custom CSS.
+It helps users explore destinations with a sleek design inspired by mountains, lakes, and adventures.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌍 Beautiful Hero Section with gradient background
 
-## Expanding the ESLint configuration
+📌 Navbar with transparent overlay
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏔️ Travel-inspired theme (mountain + lake vibes)
+
+📱 Fully responsive design
+
+🎨 Custom styled buttons & smooth gradients
+
+🚀 Live Demo
+
+🔗 View Live Website
+
+🛠️ Tech Stack
+
+⚛️ React.js
+
+🎨 Bootstrap 5 + Custom CSS
+
+🌐 Responsive Web Design
+
+📸 Screenshots
+🏠 Home Page
+<img width="1280" height="720" alt="Home Page" src="https://github.com/user-attachments/assets/home-page.png" />
+📂 Destinations
+<img width="1280" height="720" alt="Destinations" src="https://github.com/user-attachments/assets/destinations.png" />
+📞 Contact Page
+<img width="1280" height="720" alt="Contact Page" src="https://github.com/user-attachments/assets/contact-page.png" />
+📂 Project Structure
+/src
+  ├── components
+  │   ├── Navbar.js
+  │   ├── Home.js
+  │   ├── Destinations.js
+  │   └── Contact.js
+  ├── images
+  ├── App.js
+  └── App.css
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a PR.
+
+📜 License
+
+This project is MIT Licensed – free to use and custom
