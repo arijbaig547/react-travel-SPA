@@ -55,5 +55,22 @@ It helps users **explore destinations** with a sleek design inspired by **mounta
 ├── App.js
 └── App.css
 
+## ⚙️ How to Run Locally  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/voyagex-travel.git
+Navigate to the project folder
 
+
+cd voyagex-travel
+Install dependencies
+
+npm install
+Run the project
+
+
+npm start
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a PR.
 
