@@ -3,15 +3,15 @@
 A modern and elegant Travel Website built using React, Bootstrap & Custom CSS.
 It helps users explore destinations with a sleek design inspired by mountains, lakes, and adventures.
 
-✨ Features
+🌟 Features
 
-🌍 Beautiful Hero Section with gradient background
+🌍 Beautiful hero section with gradient background
 
-📌 Navbar with transparent overlay
+📌 Transparent navbar overlay
 
 🏔️ Travel-inspired theme (mountain + lake vibes)
 
-📱 Fully responsive design
+📱 Fully responsive design (mobile + desktop)
 
 🎨 Custom styled buttons & smooth gradients
 
@@ -29,11 +29,11 @@ It helps users explore destinations with a sleek design inspired by mountains, l
 
 📸 Screenshots
 🏠 Home Page
-<img width="1280" height="720" alt="Home Page" src="https://github.com/user-attachments/assets/home-page.png" />
-📂 Destinations
-<img width="1280" height="720" alt="Destinations" src="https://github.com/user-attachments/assets/destinations.png" />
+
+📍 Destinations Page
+
 📞 Contact Page
-<img width="1280" height="720" alt="Contact Page" src="https://github.com/user-attachments/assets/contact-page.png" />
+
 📂 Project Structure
 /src
   ├── components
@@ -45,7 +45,32 @@ It helps users explore destinations with a sleek design inspired by mountains, l
   ├── App.js
   └── App.css
 
+⚙️ How to Run Locally
+
+Clone the repository
+
+git clone https://github.com/your-username/voyagex-travel.git
+
+
+Navigate to the project folder
+
+cd voyagex-travel
+
+
+Install dependencies
+
+npm install
+
+
+Run the project
+
+npm start
+
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a PR.
+
+📜 License
+
+This project is MIT Licensed – free to use and customiz
